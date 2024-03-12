@@ -22,7 +22,7 @@ def value_from_pdf(keyword,file_path,total=False):
     doc.close()
     return None
 
-# print(value_from_pdf("TRANSPORT",r"C:\Users\KSPL\Desktop\automation\Python\downloads\Daily_Product_Purchase_By_Date[29Feb].pdf"))
+# print(value_from_pdf("TRANSPORT",r"C:\Users\NikhilVamsiGrandhi\pdfslocal\MTD_Product_Purchase_By_Date[11_Mar].pdf"))
 # print(value_from_pdf("TOTAL",r"C:\Users\KSPL\Desktop\automation\Python\ScrapIT_PSG\downlaods\MTD_Product_Purchase_By_Date[27_Feb].pdf"))
 # print(value_from_pdf("N",r"C:\Users\KSPL\Desktop\automation\Python\ScrapIT_PSG\downlaods\MTD_Product_Purchase_By_Date[27_Feb].pdf"))
 # print(value_from_pdf("TRANSPORT",r"C:\Users\KSPL\Desktop\automation\Python\ScrapIT_PSG\downlaods\MTD_Product_Purchase_By_Date[27_Feb].pdf"))
